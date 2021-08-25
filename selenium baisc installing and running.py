@@ -1,4 +1,4 @@
-# Install selenium from spyder
+# Install selenium through spyder
 # install chrome driver using 
 # "https://sites.google.com/a/chromium.org/chromedriver/"
 # check your chrome version and install acording to it.
